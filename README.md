@@ -1,11 +1,8 @@
 # Calculadora Futuristica
 
-<h1>Programador Designer Pro</h1>
-ツ ESPERO QUE VOCÊS APRECIEM!
+<h1>Paulo Henrique Padilha</h1>
 
-Compartilha, Siga-nos!
+ツ Me acompanhe nas redes sociais!
 
-<a href="https://www.instagram.com/programadordesignerpro/">Instagram</a>.
-<a href="https://t.me/programadordesignerpro">Telegram</a>.
-
-Ajuda muito o meu Trabalho.
+<a href="https://www.instagram.com/opaulopadilha">Instagram</a>.
+<a href="https://www.linkedin.com/in/padilha-dev/">LinkedIn</a>.
